@@ -1,0 +1,2 @@
+very niche most likely unusable for anyone not running a linuxgsm server for the game Arma 3, requires your mods to be formatted with no spaces and with an '@' at the start and to be placed the root of your serverfiles folder 
+checks steam workshop for date data with bs4 and compares it to the creation date of the folder you have on your server, if your folder is older than the workshop addon it says, simple as that and if all is up to date runs a .sh folder hopefully that will start the server
